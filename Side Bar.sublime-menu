@@ -1,0 +1,10 @@
+[
+    {
+        "id": "SublimeGitHub", "caption": "-"
+    },
+    {
+        "caption": "Open in GitHub Desktop",
+        "command": "side_bar_git_hub",
+        "args": { "paths": [] }
+    }
+]

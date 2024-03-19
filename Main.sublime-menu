@@ -4,8 +4,8 @@
         "children":
         [
             {
-                "caption": "GitHub",
-                "command": "github"
+                "caption": "GitHub Desktop",
+                "command": "git_hub_open"
             }
         ]
     }
